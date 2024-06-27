@@ -50,4 +50,4 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 4.- Mejorar la experiencia del cliente: Implementar sistemas de recomendación personalizados basados en machine learning para mejorar la experiencia del cliente,  promoviendo así la fidelización y satisfacción del mismo.
 
 
-<hr style="border: 2px solid #000000;" /> #CON ESTE ESTILO SEPARO CON UNA LINEA CADA PUNTO DEL PROYECTO
+<hr style="border: 2px solid #000000;" /> <!--este estilo sirve para separa los puntos del proyecto -->
