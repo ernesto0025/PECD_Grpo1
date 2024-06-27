@@ -1,4 +1,10 @@
 <div style="text-align: center;">
+  <img src="imagenes/logo.jpg" alt="Logo JPF">
+</div>
+
+
+
+<div style="text-align: center;">
 
 # PROGRAMA DE ESPECIALIZACIÓN ENCIENCIA DE DATOS
 
@@ -7,6 +13,7 @@
 - **Autores:** 
   - Ernesto Alcantara Cuzco
   - Bruno Gerardo Aranda 
+  -
   -
   - 
 
