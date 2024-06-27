@@ -1,7 +1,7 @@
 
-<div style="text-align: center;">
+<p align="center">
   <img src="Imagenes/logo.png" alt="Logo JPF">
-</div>
+</p>
 
 
 
