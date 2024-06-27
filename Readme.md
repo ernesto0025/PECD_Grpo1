@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="imagenes/logo.jpg" alt="Logo JPF">
+  <img src="imagenes/logo.png" alt="Logo JPF">
 </div>
 
 
