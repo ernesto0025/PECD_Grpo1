@@ -34,3 +34,5 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
   - 
 
 </div>
+
+<hr style="border: 2px solid #000000;" />
