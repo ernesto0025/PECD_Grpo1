@@ -5,11 +5,11 @@ a.1.Decisiones clave
   -Digitalización
 
 a.2.Métricas
-    -Tasa de Satisfacción del cliente : (numero de clientes satisfechos/numero total de clientes encuestados)x100
-    -Ventas totales de equipos moviles: cantidad total vendida(mensual,anual)
-    -Numero de reclamos de cliente
-    -Tiempo promedio de atención al cliente
-    -Tasa de conversión de tienda en linea : (numero total de compras/numero tota lde visitantes a sitio web)*100
+    *Tasa de Satisfacción del cliente : (numero de clientes satisfechos/numero total de clientes encuestados)x100
+    *Ventas totales de equipos moviles: cantidad total vendida(mensual,anual)
+    *Numero de reclamos de cliente
+    *Tiempo promedio de atención al cliente
+    *Tasa de conversión de tienda en linea : (numero total de compras/numero tota lde visitantes a sitio web)*100
 
 a.3.Palancas
     -Capacitación y mejora en el servicio al cliente para brindar una experiencia satisfactoria
