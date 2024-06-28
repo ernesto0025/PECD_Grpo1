@@ -14,7 +14,7 @@
 # a.3.Palancas
     * Capacitación y mejora en el servicio al cliente para brindar una experiencia satisfactoria
     * Campañas de marketing para realzar los beneficios de comprar celulares en xyz, así como también ofrecer promociones y ofertas de    
-      los      productos
+      los productos
     *Investigación e innovación para el desarrollo de mejores productos
     *Analisis de mercado para ofrecer precios competitivos
     *Fortalecimiento de la presencia en línea para mejorar la estrategia de comercio electrónico y marketing digital para         
