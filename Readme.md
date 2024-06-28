@@ -18,5 +18,5 @@ El repositorio está organizado de la siguiente manera:
 
 
 
-Para obtener más detalles sobre el proyecto, consulta el [README.md](Readme.md) ubicado en la carpeta `docs`.
+Para obtener más detalles sobre el proyecto, consulta el [README.md](docs/Readme.md) ubicado en la carpeta `docs`.
 
