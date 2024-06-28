@@ -20,11 +20,11 @@
     *Fortalecimiento de la presencia en línea para mejorar la estrategia de comercio electrónico y marketing digital para         
      aprovechar el crecimiento del comercio en línea
 
-b.1.Papel de la incertidumbre
+# b.1.Papel de la incertidumbre
     La incertidumbre en el ambito empresarial es la inposibilidad de prever una situación que afecta los resultados esperados en un área del negocio. En este caso, la incertidumbre principal es: ¿El cliente comprará o no su equipo telefónico con la operadora? Plantear esta incertidumbre puede ayudar a la empresa a evaluar su estrategia actual de marketing y de servicio al cliente, así como la tasa de satisfacción del cliente con los productos ofrecidos.
 
-b.2.Resultados esperados
+# b.2.Resultados esperados
     Con la incertidumbre planteada y teniendo en cuenta las métricas, los resultados esperados del proyecto de Machine Learning son los siguientes:
-    -Incremento en el número de ventas de equipos móviles
-    -Incremento en la tasa de satisfacción del cliente
-    -Incrmento en la tasa de conversión de la tienda en línea
+    *Incremento en el número de ventas de equipos móviles
+    *Incremento en la tasa de satisfacción del cliente
+    *Incrmento en la tasa de conversión de la tienda en línea
