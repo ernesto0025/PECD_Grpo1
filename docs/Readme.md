@@ -68,8 +68,17 @@ El proyecto está organizado de la siguiente manera:
 
 
 proyecto-raiz
- data   
-    procesado
+ ----data
+        -----procesado
+        -----sin procesar
+ ----docs
+        -----problematica
+        -----readme
+ ----resultados
+        ------graficos
+ ----src
+        ------Scripts
+ ----readme 
     
 
 <hr style="border: 2px solid #000000;" />
