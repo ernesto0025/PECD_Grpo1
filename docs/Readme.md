@@ -84,7 +84,7 @@ proyecto-raiz
 <hr style="border: 2px solid #000000;" />
 
 
-# Proyecto de Telecom
+# Enlaces (Desarrollo Parte 01 Analisis y Propuesta)
 
 Bienvenido al repositorio del proyecto de telecom. Aquí encontrará información detallada sobre nuestro trabajo:
 
