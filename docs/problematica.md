@@ -1,5 +1,5 @@
-a.1.Decisiones clave
-  -Desarrollo de productos
+# a.1.Decisiones clave
+  * Desarrollo de productos
   -Mejora del servicio al cliente.
   -Estrategias de marketing
   -Digitalización
