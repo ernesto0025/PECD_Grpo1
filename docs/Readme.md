@@ -25,7 +25,7 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 
 <div style="text-align: center;">
 
-# PROGRAMA DE ESPECIALIZACIÓN ENCIENCIA DE DATOS
+# PROGRAMA DE ESPECIALIZACIÓN EN CIENCIA DE DATOS
 
 - **Curso:** Fundamentos de Ciencia de Datos
 - **Docente:** Bch. Ms. Jordan King Rodriguez Mallqui- 
