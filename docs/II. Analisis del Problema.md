@@ -27,4 +27,4 @@
     Con la incertidumbre planteada y teniendo en cuenta las métricas, los resultados esperados del proyecto de Machine Learning son los siguientes:
     *Incremento en el número de ventas de equipos móviles
     *Incremento en la tasa de satisfacción del cliente
-    *Incrmento en la tasa de conversión de la tienda en línea
+    *Incremento en la tasa de conversión de la tienda en línea
