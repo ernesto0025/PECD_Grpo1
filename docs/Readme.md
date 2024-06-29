@@ -31,9 +31,9 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 - **Docente:** Bch. Ms. Jordan King Rodriguez Mallqui- 
 - **Autores:** 
   - Ernesto Alcantara Cuzco
-  - Bruno Gerardo Aranda 
-  -
-  -
+  - Bruno Gerardo Aranda Vega
+  - Brandon Arevalo Mauricio
+  - Joshua André Ayala Silva
   - Willian Enso Chambi Calla
 
 </div>
