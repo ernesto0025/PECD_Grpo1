@@ -10,7 +10,7 @@ Al respecto, recientemente se ha advertido una caída sustancial en los ingresos
   * La venta de equipos móviles viene cayendo por parte de la empresa operadora *XYZ*.
 
 # b.1. Categoría:
-    * Marketing.
+  * Marketing.
 
 # b.2. Caso de uso:
-    * Generación de prospectos (Leads).
+  * Generación de prospectos (Leads).
