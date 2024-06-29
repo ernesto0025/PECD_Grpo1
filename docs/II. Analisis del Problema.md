@@ -31,5 +31,6 @@ La incertidumbre en el ámbito empresarial es la imposibilidad de prever una sit
 Con la incertidumbre planteada y teniendo en cuenta las métricas, los resultados esperados del proyecto de Machine Learning son los siguientes:
   * Incremento en el número de ventas de equipos móviles
   * Incremento en la tasa de satisfacción del cliente
+
 Además, estos resultados tendrán como consecuencia el aumento en los ingresos de la empresa operadora.
 
