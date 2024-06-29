@@ -34,7 +34,7 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
   - Bruno Gerardo Aranda 
   -
   -
-  - 
+  - Willian Enso Chambi Calla
 
 </div>
 
