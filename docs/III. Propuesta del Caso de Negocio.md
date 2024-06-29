@@ -8,6 +8,17 @@ Una vez que se tiene la segmentación (que tiene un objetivo más descriptiva), 
 
 # b. What? So What? Now What?
 
+*¿Qué?: Entendiendo el negocio
+Dada la problemática, esta se mide por cantidad de equipos vendidos por mes. Es un enfoque directo del problema pero se podría mejorar si se evalua la cantidad de equipos vendidos mensual por segmentos de clientes. Actualmente, para aumentar las ventas de equipos móviles, se hacen campañas de marketing y descuentos ocasionales. Sin embargo, se sigue observando una disminución en la venta de equipos, presumiblemente por los distintos miembros de la competencia que realiza estrategias de venta similares. Esta disminución afecta los ingresos de la empresa de manera significativa. 
+
+*¿Entonces qué?: La esencia de la creación de valor en Ciencia Datos
+Con la solución de Machine Learning planteada, se usará la información sobre segmentos de clientes para mejorar las estrategias de marketing, pudiendo enfocarse estas en las necesidades de cada segmento. Otra palanca diferente del marketing que se puede utilizar es la atención al cliente, ya que la satisfacción del cliente con la atención brindada puede determinar si este volverá a comprar su equipo con la empresa o si recomendará la empresa a sus conocidos. Por esto también se medirá la tasa de satisfacción de los clientes, y dependiendo de los resultados se pueden sugerir capacitaciones para mejorar el servicio al cliente. Finalmente se analizará la eficacia de las ventas en linea de la empresa, para saber si es necesario realizar mejorar la página web de compra de equipos. 
+
+*¿Ahora qué?: Ser un proactivo
+Despué de obtener los resultados del análisis de Machine Learning planteado en la solución, se realizarán las siguientes acciones:
+    *Se comunicará con el área de marketing para que con la información brindada sobre segmentos de clientes puedan elaborar campañas focalizadas.
+    *Se comunicará con el área de finanzas para planear una estrategia de descuentos, planteando los beneficios y costos de la evaluación de la estrategia escogida.
+    *Se comunicará con el área de recursos humanos para que puedan planear las capacitaciones necesarias para mejorar la atención al cliente.
 
 
 # c. Métrica adecuada:
