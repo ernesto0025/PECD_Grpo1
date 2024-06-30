@@ -62,7 +62,7 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 
 <hr style="border: 2px solid #000000;" />
 
-<div style="text-align: center;">
+
 
 ## Estructura de las Carpetas
 
@@ -85,7 +85,7 @@ Proyecto-Raiz/
 
 
 
-</div>
+
     
 
 <hr style="border: 2px solid #000000;" />
