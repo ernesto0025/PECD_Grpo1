@@ -70,20 +70,20 @@ El proyecto está organizado de la siguiente manera:
 
 
 📁Proyecto-Raiz/
-├── 📁.git/
-├── 📁data/
-│   ├── 📁procesado/
+├──📁.git/
+├──📁data/
+│   ├──📁procesado/
 │   │   
-│   └── 📁sin procesar/
+│   └──📁sin procesar/
 │       
-├── 📁docs/
+├──📁docs/
 │   │   
 │   └──EleccionProblema.md/│   
 │   └──AnalisisProblema/│   
 │   └──PropuestaCaso.md/│   
 │   
-├── 📁resultados/
-├── Src/   
+├──📁resultados/
+├──Src/   
 │   └──Scripts/│ 
 ├── 📄Readme.md/
 
