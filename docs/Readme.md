@@ -69,17 +69,25 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 El proyecto está organizado de la siguiente manera:
 
 
-📁proyecto-raiz
------📁data
------------📁procesado
------------📁sin procesar
------📁docs
----------📄 problematica
----------📄readme
------📁resultados
------📁src
----------Scripts
-📄readme 
+📁Proyecto-Raiz/
+├── 📁.git/
+├── 📁data/
+│   ├── 📁procesado/
+│   │   
+│   └── 📁sin procesar/
+│       
+├── 📁docs/
+│   │   
+│   └──EleccionProblema.md/│   
+│   └──AnalisisProblema/│   
+│   └──PropuestaCaso.md/│   
+│   
+├── 📁resultados/
+├── Src/   
+│   └──Scripts/│ 
+├── 📄Readme.md/
+
+
 
 </div>
     
