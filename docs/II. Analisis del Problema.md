@@ -7,13 +7,19 @@ Ante el problema antes descrito, las decisiones clave corresponderán al acciona
   * Digitalización
 
 # a.2.Métricas
+  * Número de productos lanzados exitosamente
+  * Ciclo de vida del producto: Tiempo en el que el producto permanece en el mercado generando ingresos
   * Tasa de Satisfacción del cliente : (número de clientes satisfechos/número total de clientes encuestados)x100
-  * Ventas totales de equipos moviles: cantidad total vendida(mensual,anual)
   * Tiempo promedio para el cambio de equipo de un cliente.
   *	Caracterización de los abonados según equipo y plan contratado
   * Número de reclamos de cliente
   * Tiempo promedio de atención al cliente
   * Tendencia de las ventas de equipos por parte de los competidores
+  * Participación en el mercado
+  * Ventas totales de equipos moviles: cantidad total vendida(mensual,anual)
+  * Nivel de reconocimiento de la marca
+  * Numero de ventas generadas en linea
+    
 
 # a.3.Palancas
   * Capacitación y mejora en el servicio al cliente para brindar una experiencia satisfactoria
