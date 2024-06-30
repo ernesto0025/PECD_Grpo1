@@ -62,6 +62,8 @@ Este proyecto utiliza técnicas avanzadas de machine learning para entender las 
 
 <hr style="border: 2px solid #000000;" />
 
+<div style="text-align: center;">
+
 ## Estructura de las Carpetas
 
 El proyecto está organizado de la siguiente manera:
@@ -78,6 +80,8 @@ El proyecto está organizado de la siguiente manera:
 -----📁src
 ---------Scripts
 📄readme 
+
+</div>
     
 
 <hr style="border: 2px solid #000000;" />
@@ -87,7 +91,10 @@ El proyecto está organizado de la siguiente manera:
 
 Bienvenido al repositorio del proyecto de telecom. Aquí encontrará información detallada sobre nuestro trabajo:
 
-- ![Analisis Del Problema](AnalisisProblematica.md) 
+- ![Analisis Del Problema](I.%20Eleccion%20Del%20Problema.md) 
+- ![Analisis Del Problema](II.%20Analisis%20del%20Problema.md) 
+- ![Analisis Del Problema](III.%20Propuesta%20del%20Caso%20de%20Negocio.md) 
+
 
 Estos enlaces e imágenes le ayudarán a navegar y comprender mejor nuestro proyecto desde diferentes perspectivas.
 
